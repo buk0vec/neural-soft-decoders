@@ -1,0 +1,6 @@
+torch
+numpy
+galois
+tqdm
+matplotlib
+modal
